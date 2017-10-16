@@ -1,3 +1,5 @@
 
 test de
-contribution sur GtHb
+contribution sur GitHub.
+
+GitHub est un outil de versioning. Il permet de versionner son code lors d'un projet web ( ou autre projet informatique).
